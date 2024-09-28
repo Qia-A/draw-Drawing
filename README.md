@@ -1,2 +1,2 @@
 # draw-Drawing
-用于存储在draw.io上画图
+用于存储画图
